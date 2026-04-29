@@ -42,5 +42,5 @@ Happy coding ✨
   
 [![F32Lab's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=F32Lab)](https://github.com/F32Lab)<br/>
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=F32Lab&layout=compact)](https://github.com/F32Lab)<br/>
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=tsadriu&theme=dark&hide_border=false)<br/>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=F32Lab&theme=dark&hide_border=false)<br/>
 </div>
