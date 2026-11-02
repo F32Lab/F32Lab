@@ -84,7 +84,7 @@ Happy coding ✨
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=F32Lab)](https://github.com/F32Lab)<br/>
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=F32Lab&layout=compact)](https://github.com/F32Lab)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=F32Lab)](https://github.com/F32Lab)<br/>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=F32Lab&layout=compact)](https://github.com/F32Lab)
 
 </div>
