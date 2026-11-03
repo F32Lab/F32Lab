@@ -1,90 +1,63 @@
-# Hello there! 👋
+# F32Lab
 
-Welcome to my corner of GitHub.
+I write C# for a living, mostly data pipelines, APIs and automation tools. In the evenings I make games. This account holds the things I build because I want to.
 
-## About me
+It started in 2017 with a top-down RPG in GameMaker Studio 2, my first real program. I've been making games on the side ever since, and two of them are on Steam now.
 
-Backend developer working with C# and .NET. I build data pipelines, APIs and automation tools during the day — and games in Unity when the day is over.
+## Games I developed
 
-This account is where my personal projects live: things I build because I want to, not because someone asked me to.
+### Cripta
+A 2D co-op roguelike for one up to five players. Made in C# and Unity. More info about it [here](https://cripta.f32lab.space).
 
-## Projects
+### Shadow Touched
+A 2D platformer with precise movement and hard levels. I made it alone in C# and Unity. It's on Steam and Game Jolt.
 
-### 🎮 Shadow Touched
-2D platformer focused on precision movement and a challenging level design.
-Built solo in C# and Unity. **Published on Steam and Game Jolt.**
+### Nestronomus
+A top-down 2D RPG about exploration and turn-based combat. Also a solo C# and Unity project. It's on Game Jolt.
 
-### 🗺️ Nestronomus
-Top-down 2D RPG built around exploration and turn-based combat.
-Built solo in C# and Unity. **Published on Game Jolt.**
+### Arcadia
+The 2017 GameMaker Studio 2 RPG where all of this began.
 
-### ⚙️ Automation Service
-C# .NET service running 24/7 on a Raspberry Pi 4. Scheduled data collection and
-change monitoring, with e-mail and Telegram notifications. Internal cron-style
-scheduling with NCrontab, scraping with Playwright and HtmlAgilityPack,
-JSON-based configuration with credentials kept separate.
-Runs as a `systemd` service on a hardened Linux host.
+## What I work with
 
-### 🕹️ Arcadia
-Top-down 2D RPG built in GameMaker Studio 2 — my first real programming project, from 2017.
+**Languages:**
+<img src="./assets/images/c_sharp.svg" width="20" height="20" alt="C#"/> C# (5 years) ·
+<img src="./assets/images/t_sql.svg" width="20" height="20" alt="T-SQL"/> T-SQL ·
+<img src="./assets/images/javascript.svg" width="20" height="20" alt="JavaScript"/> JavaScript ·
+<img src="./assets/images/java.svg" width="20" height="20" alt="Java"/> Java
 
-## Tech I use
+**.NET and games:** ASP.NET Core (APIs, MVC, background services), Entity Framework Core,
+<img src="./assets/images/blazor.svg" width="20" height="20" alt="Blazor"/> Blazor, Unity
 
-### Languages
-* <img src="./assets/images/c_sharp.svg" width="20" height="20" alt="C#"/> C# — 5 years
-* <img src="./assets/images/t_sql.svg" width="20" height="20" alt="T-SQL"/> T-SQL
-* <img src="./assets/images/javascript.svg" width="20" height="20" alt="JavaScript"/> JavaScript
-* <img src="./assets/images/java.svg" width="20" height="20" alt="Java"/> Java
+**Data:**
+<img src="./assets/images/t_sql.svg" width="36" height="36" alt="SQL Server"/> SQL Server ·
+<img src="./assets/images/mongodb.svg" width="36" height="36" alt="MongoDB"/> MongoDB
 
-### Frameworks & Runtimes
-* .NET / ASP.NET Core — APIs, MVC, background services
-* Entity Framework Core
-* <img src="./assets/images/blazor.svg" width="20" height="20" alt="Blazor"/> Blazor
-* Unity — 2D games
+**Scraping:** Playwright, Selenium, HtmlAgilityPack
 
-### Data
-* <img src="./assets/images/t_sql.svg" width="20" height="20" alt="SQL Server"/> Microsoft SQL Server
-* <img src="./assets/images/mongodb.svg" width="20" height="20" alt="MongoDB"/> MongoDB
+**Infra:** Azure, Azure DevOps pipelines, Git, Linux
 
-### Automation & Scraping
-* Playwright
-* Selenium
-* HtmlAgilityPack
-
-### Cloud, Infra & Tooling
-* Azure · Azure DevOps · CI/CD pipelines
-* Git
-* Linux — `systemd` services, SSH key auth, `fail2ban`
-
-### Editors
+**Editors:**
 <img src="./assets/images/jetbrains_rider.svg" width="20" height="20" alt="Rider"/> Rider ·
 <img src="./assets/images/jetbrains_datagrip.svg" width="20" height="20" alt="DataGrip"/> DataGrip ·
 <img src="./assets/images/visual_studio.svg" width="20" height="20" alt="Visual Studio"/> Visual Studio ·
 <img src="./assets/images/jetbrains_intellij_idea.svg" width="20" height="20" alt="IntelliJ IDEA"/> IntelliJ IDEA ·
 <img src="./assets/images/jetbrains_webstorm.svg" width="20" height="20" alt="WebStorm"/> WebStorm
 
-## Where I build
+## Machines
 
-| Machine | What I use it for |
+| Machine | What runs on it |
 |---|---|
-| 🍎 MacBook Pro (M4) | Unity game development, general dev |
-| <img src="./assets/images/windows.svg" width="16" height="16" alt="Windows"/> Windows PC | Unity game development, .NET work |
-| 🐧 Raspberry Pi 4 | Always-on Linux host for my automation service |
+| MacBook Pro (M4) | Unity, general dev |
+| <img src="./assets/images/windows.svg" width="16" height="16" alt="Windows"/> Windows PC | Unity, .NET work |
 
-Which means most of what I write ends up running on all three, one way or another.
+So most of what I write has to run on macOS, Windows and Linux at some point.
 
-## What you'll find here
-
-* 🛠️ Repositories for my personal projects
-* 📚 Code that might give you an idea or two
-
-If something here is useful to you, take it and run with it. 💻
-
-Happy coding ✨
+If something here is useful to you, use it or fork it.
 
 <div align="center">
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=F32Lab)](https://github.com/F32Lab)<br/>
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=F32Lab&layout=compact)](https://github.com/F32Lab)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=F32Lab)](https://github.com/F32Lab)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=F32Lab&layout=normal&langs_count=4)](https://github.com/F32Lab)
 
 </div>
